@@ -289,8 +289,7 @@ h2 {
 /* Hero
    ============================= */
 .section-hero {
-  background-image: url('images/headphones_hero_1.jpg');
-  background-position: center;
+  background: url('images/headphones_hero_1.jpg') no-repeat center / cover;
   display: flex;
   justify-content: center;
   height: 800px;
