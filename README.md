@@ -7,7 +7,8 @@ Welcome to the **Holberton Headphones** project repository! This project is part
 ## Table of Contents
 
 - [Description](#description)  
-- [Project Structure](#project-structure)  
+- [Project Structure](#project-structure)
+- [Learning Objectives](#learning-objectives)
 - [Design Guidelines](#design-guidelines)  
 
 ---
@@ -49,6 +50,17 @@ The repository contains the following files, corresponding to different stages o
 | `101-index.html`  | Adds animations to "What we do..." and "Our results" sections.                             |
 | `101-styles.css`  | CSS animations for hover effects, scaling, opacity, and rotations.                         |
 | `102-styles.scss` | SASS version of `101-styles.css`, compiled with `$ sass 102-styles.scss > 101-styles.css`. |
+
+---
+
+## Learning Objectives
+
+By the end of this project, the following concepts should be mastered:
+
+- **HTML & CSS Fundamentals**: Structure a webpage using **semantic HTML**, apply **CSS styling**, and implement **responsive design** with **media queries**.  
+- **Layout & Positioning**: Use **Flexbox**, **relative and absolute positioning**, and scalable layouts for responsiveness.  
+- **Design Consistency & Maintainability**: Follow **Figma design specifications**, ensure **typography and spacing** consistency, and maintain **clean CSS structure**.  
+- **CSS Effects & Animations**: Apply **hover effects**, **keyframe animations**, and design **interactive UI elements**.  
 
 ---
 
